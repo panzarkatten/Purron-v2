@@ -4,7 +4,8 @@ Configuration files and other bits and bobs related to my Voron v2 3D printer
 Purron v2 is a Voron v2.4r2 350mm printer built from a Formbot kit. PIF was used for the main parts with black as base color and purple as accent. The name Purron comes from Purple + Voron = Purron... much creative yes... and I like cats. 
 
 ## Status
-*Updated 2022-08-18* 
+*Updated 2022-08-18*
+
 The printer is built with the pif parts and initial tuning has been done. Next step will be to print the remaining parts not included in the pif package like skirts etc. 
 
 ## Hardware
@@ -20,7 +21,7 @@ The printer is built with the pif parts and initial tuning has been done. Next s
 
 ## Future
 - [ ] Stealthburner upgrade
-    - [x]Acquire hardware
+    - [x] Acquire hardware
         - [x] Nema 14 motor with gear
         - [x] 5015 Centrifugal Fan
         - [x] 4010 Axial Fan
